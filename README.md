@@ -1,2 +1,2 @@
-# learn-scss
-A simple repo to learn the basics of styling your app with Scss
+##Learn Sass
+This is a simple repo, bootstrapped with create-react-app to teach the basics of Scss
