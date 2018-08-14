@@ -7,7 +7,7 @@ import suggestion2 from './images/shoes2.png'
 class Solution1 extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="solution1">
         <header className="header">
         <h1 className="title">Sole Destroying Shoes, Ltd.</h1>
         </header>
